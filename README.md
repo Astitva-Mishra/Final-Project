@@ -72,6 +72,3 @@ atm-simulation-java/
 
 Developed by **Astitva Mishra** as part of ACM SIG Java tasks.
 
----
-
-👉 Do you want me to also add a **screenshot/gif section** in the README (for when you demo it later), or keep it fully text-based for now?
